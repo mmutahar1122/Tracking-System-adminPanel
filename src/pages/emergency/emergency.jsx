@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useEffect, useState } from "react";
 
 const Emergency = () => {
@@ -73,3 +74,14 @@ console.log(res);
 
 export default Emergency;
 
+=======
+
+const Emergency=()=>{
+
+    return <>
+    <h1>Emergency alert</h1>
+    </>
+}
+
+export default Emergency
+>>>>>>> 390111209b297fb97d3326495f84d843b5b17e19
